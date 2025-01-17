@@ -33,7 +33,7 @@ Osiedle podejmuje działania poprzez swoje organy.
 ### § 5
 
 1. Organem wykonawczym Osiedla jest Zarząd Osiedla, zwany dalej „Zarządem”.
-2. Zarząd wybiera Rada spośród swoich członków. Liczbę członków Zarządu określa Rada w odrębnej uchwale.
+2. Zarząd wybiera Rada spośród swoich członków.
 
 ### § 6
 
@@ -47,9 +47,9 @@ Dla usprawnienia trybu swojej pracy Rada może uchwalić Regulamin Rady.
 
 Do wyłącznej właściwości Rady należy podejmowanie uchwał wyrażających opinie w sprawach przekazywanych przez organy Miasta Rzeszowa, Urząd Miasta Rzeszowa, a także inne organy i podmioty, w sprawach dotyczących Osiedla.
 
-§ 9
+### § 9
 
-Zadaniem Zarządu jest organizowanie prac organów Osiedla, a w szczególności gospodarowanie środkami finansowymi, zapisanymi w budżecie Miasta, będącymi w dyspozycji Osiedla.
+Zadaniem Zarządu jest organizowanie prac organów Osiedla i gospodarowanie środkami finansowymi, zapisanymi w budżecie Miasta, będącymi w dyspozycji Osiedla.
 
 ### § 10
 
@@ -72,7 +72,7 @@ Uchwały organów Osiedla zapadają zwykłą większością głosów w obecnośc
 ### § 14
 
 1. Postanowienia organów Osiedla zapadają w formie uchwał.
-2. Uchwały w sprawach, o których mowa w § 8 Rada podejmuje w terminie do 14 dni od daty otrzymania wniosku o wydanie opinii. Niewydanie opinii w tym terminie uważa się za brak stanowiska w sprawie.
+2. Uchwały w sprawach, o których mowa w § 8 Rada podejmuje w terminie do 21 dni od daty otrzymania wniosku o wydanie opinii. Niewydanie opinii w tym terminie uważa się za brak stanowiska w sprawie.
 
 ### § 15
 
@@ -149,9 +149,9 @@ Osiedle, poprzez swoje organy winno współpracować z radnymi ze swojego terenu
 
 ### § 22
 
-1. Wybory są ważne, jeżeli uczestniczyło w nich co najmniej 100 mieszkańców Osiedla. Dla Osiedla Miłocin będzie to odpowiednio co najmniej 45 mieszkańców Osiedla.
+1. Wybory są ważne, jeżeli uczestniczyło w nich co najmniej 80 osób figurujących w gminnym rejestrze mieszkańców z danego Osiedla.
 
-2. Jeżeli z powodu niedostatecznej frekwencji wybory w pierwszym terminie nie odbyły się, nie później niż po 60 dniach przeprowadza się wybory w drugim terminie. W takim przypadku do ważności wyborów niezbędna jest obecność co najmniej 60 mieszkańców osiedla”. Dla Osiedla Miłocin będzie to odpowiednio co najmniej 30 mieszkańców Osiedla.
+2. Jeżeli z powodu niedostatecznej frekwencji wybory w pierwszym terminie nie odbyły się, nie później niż po 60 dniach przeprowadza się wybory w drugim terminie. W takim przypadku do ważności wyborów niezbędna jest obecność co najmniej 50 osób figurujących w gminnym rejestrze mieszkańców z danego Osiedla.
 
 3. W razie niedokonania wyboru Rady, Rada Miasta może zarządzić przeprowadzenie wyborów ponownych .
 
@@ -161,11 +161,11 @@ Osiedle, poprzez swoje organy winno współpracować z radnymi ze swojego terenu
 
 ### § 23
 
-1. Wybory do Rady są powszechne – prawo wybierania ma każda osoba zamieszkała na terenie Osiedla, która w dniu wyborów ma ukończone 18 lat. 2. W razie wątpliwości co do zamieszkiwania na Osiedlu, przed przystąpieniem do głosowania wyborca okazuje komisji wyborczej, zwanej dalej "Komisją", dokument stwierdzający jego tożsamość.
-
-3. W przypadku wątpliwości co do faktu zamieszkiwania wyborcy na terenie danego Osiedla, wyborca, na żądanie komisji, winien powołać się na świadectwo dwóch wiarygodnych osób znanych komisji.
-
-4. Wybranym w skład Rady może być każdy mieszkaniec Rzeszowa, który w dniu wyborów ma ukończone 18 lat.
+1. Wybory do Rady Osiedla są powszechne – prawo wybierania ma każda osoba zameldowana na pobyt stały lub pobyt czasowy na terenie Osiedla, która najpóźniej w dniu wyborów kończy 18 lat.
+2. W głosowaniu mogą brać udział mieszkańcy danego Osiedla znajdujący się w gminnym rejestrze mieszkańców, tj. osoby stale zameldowane na pobyt stały i pobyt czasowy na terenie Osiedla. Jeżeli mieszkaniec Osiedla jest zameldowany na pobyt stały i czasowy na terenie Rzeszowa, to w wyborach do Rady będzie brane pod uwagę tylko zameldowanie na pobyt stały, w którym przysługuje prawo wybierania.
+3. Przed przystąpieniem do głosowania wyborca okazuje pracownikowi Urzędu Miasta, dokument stwierdzający jego tożsamość.
+4. Przed wydaniem kart do głosowania pracownik Urzędu Miasta Rzeszowa sprawdza, czy dana osoba figuruje w gminnym rejestrze mieszkańców.
+5. Kandydatem na radnego Rady Osiedla może być obywatel polski, który figuruje w gminnym rejestrze mieszkańców.
 
 ### § 24
 
@@ -181,7 +181,7 @@ Wybory odbywają się w głosowaniu tajnym. Karty do głosowania wrzuca się do 
 
 1. Wybory członków Zarządu odbywają się bezpośrednio po ogłoszeniu wyników wyborów Rady.
 
-2. Na czele Zarządu stoi Przewodniczący, wybierany przez Radę bezwzględną większością głosów ustawowego składu Rady w głosowaniu tajnym. Rada wybiera również co najmniej jednego Zastępcę Przewodniczącego, Sekretarza i pozostałych Członków Zarządu w głosowaniu tajnym zwykłą większością głosów, w obecności co najmniej połowy ustawowego składu Rady.
+2. Na czele Zarządu stoi Przewodniczący, wybierany przez Radę bezwzględną większością głosów ustawowego składu Rady w głosowaniu tajnym. Rada wybiera również nie więcej niż dwóch Zastępców Przewodniczącego oraz Sekretarza w głosowaniu tajnym zwykłą większością głosów, w obecności co najmniej połowy ustawowego składu Rady.
 
 3. W razie niewybrania Przewodniczącego lub Zarządu w terminie jednego miesiąca od dnia wyboru Rady, Rada ulega rozwiązaniu, a Rada Miasta zarządza ponowne wybory.
 
@@ -195,7 +195,7 @@ Wybory odbywają się w głosowaniu tajnym. Karty do głosowania wrzuca się do 
 
 ### § 28
 
-1. Wybory do Rady przeprowadza komisja, w skład której wchodzą: radny wskazany przez komisję Rady właściwą do współpracy z samorządami osiedlowymi, przedstawiciel Urzędu Miasta oraz co najmniej jeden przedstawiciel mieszkańców osiedla wybrany w głosowaniu jawnym.
+1. Wybory do Rady przeprowadza komisja, w skład której wchodzą: radny wskazany przez komisję Rady Miasta właściwą do współpracy z samorządami osiedlowymi, od 1 do 3 pracowników Urzędu Miasta Rzeszowa oraz co najmniej jeden przedstawiciel mieszkańców Osiedla wybrany w głosowaniu jawnym.
 
 2. Członkiem Komisji nie może być osoba kandydująca do Rady.
    
@@ -233,7 +233,8 @@ Osoby wchodzące w skład Komisji pełnią swe funkcje społecznie.
 
 ### § 34
 
-Za wybranych uważa się kandydatów, którzy uzyskali największą liczbę głosów, ale nie mniej niż 5.
+1. Za wybranych uważa się kandydatów, którzy uzyskali największą liczbę głosów.
+2. W przypadku uzyskania przez dwóch lub więcej kandydatów równiej liczby głosów, to wynik głosowania ustala się poprzez losowanie dokonane przez Komisję.”;
 
 ### § 35
 
@@ -268,9 +269,18 @@ Komisja, niezwłocznie po zakończeniu głosowania, sporządza protokół i prze
 
 6. Jeżeli, pomimo przeprowadzenia wyborów uzupełniających, liczebność Rady nie przekroczyła 3/4 jej ustawowego składu, Rada ulega rozwiązaniu.
 
+### § 37a
+
+1. W razie złożenia rezygnacji z pełnionej funkcji przez członka Zarządu, Rada winna przyjąć tę rezygnację uchwałą, zwykłą większością głosów, w obecności co najmniej połowy składu Rady, w głosowaniu jawnym na najbliższym posiedzeniu. Niepodjęcie uchwały w tej sprawie przez Radę w terminie do końca miesiąca kalendarzowego następującego po miesiącu, w którym złożono rezygnację, oznacza przyjęcie rezygnacji tej osoby.
+2. Wyboru nowego członka Zarządu dokonuje się w ciągu 3 miesięcy od przyjęcia jego rezygnacji.
+3. W razie złożenia rezygnacji przez Przewodniczącego, do czasu wyboru nowego Przewodniczącego posiedzenia Rady zwołuje i przewodniczy im Zastępca Przewodniczącego, a w przypadku niemożności, najstarszy wiekiem członek Rady.
+4. Przy wyborze nowego członka Zarządu, przepis § 26 ust 2, stosuje się odpowiednio.
+5. W razie niewybrania nowego Przewodniczącego w terminie określonym w ust. 2, cały Zarząd ulega rozwiązaniu.
+6. Jeśli w terminie 1 miesiąca od rozwiązania Zarządu, nadal nie dojdzie do wyboru nowego Zarządu, Rada ulega rozwiązaniu.
+
 ### § 38
 
-1. Odwołanie Rady w trakcie kadencji może nastąpić przez Radę Miasta na wniosek podpisany przez co najmniej 15 % wyborców.
+1. Odwołanie Rady w trakcie kadencji może nastąpić przez Radę Miasta na wniosek podpisany przez co najmniej 15 % wyborców danego Osiedla znajdujących się w gminnym rejestrze mieszkańców.
 
 2. Wzór listy osób popierających wniosek o odwołanie Rady stanowi załącznik do niniejszej uchwały.
 
